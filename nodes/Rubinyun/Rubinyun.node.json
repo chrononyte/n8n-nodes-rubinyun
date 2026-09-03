@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-rubinyun.rubinyun",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Marketing", "Communication"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/chrononyte/n8n-nodes-rubinyun#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://www.chrononyte.com/projects/rubinyun/docs.html"
+			}
+		]
+	}
+}
