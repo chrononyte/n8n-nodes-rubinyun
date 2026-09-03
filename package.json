@@ -19,7 +19,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/chrononyte/n8n-nodes-rubinyun.git"
+		"url": "git+https://github.com/chrononyte/n8n-nodes-rubinyun.git"
 	},
 	"scripts": {
 		"build": "n8n-node build",
@@ -32,7 +32,8 @@
 		"test": "node test/prova.js"
 	},
 	"files": [
-		"dist"
+		"dist",
+		"!dist/tsconfig.tsbuildinfo"
 	],
 	"n8n": {
 		"n8nNodesApiVersion": 1,
