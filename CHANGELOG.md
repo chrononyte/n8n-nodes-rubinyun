@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.2
+
+Codex category renamed to `Marketing & Content` (the name n8n's verification expects; `Marketing` alone is not in their list). README links the three-minute walkthrough video. No code changes.
+
 ## 0.1.1
 
 Same code as 0.1.0, published from GitHub Actions with npm provenance (the way n8n asks for verified community nodes).

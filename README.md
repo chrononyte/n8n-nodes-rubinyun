@@ -56,6 +56,7 @@ Built and tested with n8n 1.x (`n8n-workflow` 2.x). Node.js 20 or later.
 ## Resources
 
 * [Rubinyun API documentation](https://www.chrononyte.com/projects/rubinyun/docs.html)
+* [Three-minute walkthrough on YouTube: install, credential, operations, AI Agent tool](https://youtu.be/b3nW0rgV9ZM)
 * [Client examples in cURL, Python, Node and PHP](https://github.com/chrononyte/rubinyun-examples)
 * [n8n community nodes documentation](https://docs.n8n.io/integrations/#community-nodes)
 
